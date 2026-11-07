@@ -1,0 +1,3 @@
+/* DO NOT @tailwind base/components/utilities here. */
+/* Exact preview already loads Tailwind via CDN in index.html. */
+/* Only add small overrides here, keep classNames identical. */
